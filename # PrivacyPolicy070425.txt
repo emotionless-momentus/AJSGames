@@ -1,0 +1,77 @@
+# Privacy Policy for Acutió: Songlines of the Golden Projection
+
+**Last Updated: 07/04/2025**
+
+## 1. Introduction
+
+Welcome to Acutió: Songlines of the Golden Projection ("Acutió," "the App," "we," "us," "our"). This application is developed by AJSGames, operating under the corporate entity DevMap Ltd.
+
+This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and associated services (collectively, the "Services"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+
+We are committed to protecting your privacy and handling your data in an open and transparent manner, adhering to global privacy standards including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
+
+## 2. Who We Are
+
+* **Developer:** AJSGames
+* **Corporate Entity:** DevMap Ltd
+* **Contact Person for Privacy Matters & Disputes:** Anthony James Smith
+* **Postal Address:** Hoxton Mix, 86-90 Paul Street, London, EC2A 4NE, United Kingdom
+
+## 3. Information We Collect
+
+We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes:
+
+* **Account Information:** When you create an account, we link your usage to an anonymized identifier. We require age verification (confirmation of being 13+ or meeting stricter regional requirements, e.g., 16+ under GDPR where applicable) but strive to minimize the collection of directly identifiable personal data for account setup.
+* **Location Data (Songlines):** To enable core gameplay features like Songlines, we collect GPS trace data when you use location-dependent features of the App. This data is crucial for tracing paths and interacting with AR elements tied to real-world locations. **Crucially, this GPS data is anonymized and aggregated. Specific paths are not publicly attributable to individual users without explicit consent.**
+* **Belief Tagging Data:** You may voluntarily choose to select tags representing your worldview (e.g., faith, ideology, secular viewpoint, or "Prefer Not to Say"). **This information is treated as highly confidential. It is used *solely* within the App to tailor metaphorical language, dialogue prompts via the Ephemeral Guiding Archetype (EGA), and challenge framing to make the experience more resonant. This data is *not* shared externally, *not* used for external profiling, and is firewalled from other datasets where technically feasible.**
+* **Dialogue and Interaction Data:** Interactions within Socratic dialogue features (e.g., Confluence Zones), especially those facilitated by the EGA, may be logged anonymously. This data is used solely for system improvement, moderation purposes (enforcing our Code of Conduct), and refining the EGA's facilitation capabilities. **These logs are not publicly linked to user accounts.**
+* **Gameplay Data:** We collect data related to your progression (Wu/Wei states, Golden Threads), choices made at Ethical Crossroads, completion of Golden Projection challenges, and interactions with game systems and AR objects.
+* **User-Generated Content (UGC):** If you contribute content within the game's systems (e.g., Songline annotations, dialogue contributions, AR Scrolls), you grant DevMap Ltd / AJSGames a non-exclusive, worldwide license to use, display, and distribute this content *within the Acutió ecosystem*, subject always to our privacy protections and moderation policies.
+* **Technical and Device Information:** We may automatically collect device information (e.g., device model, OS version, unique device identifiers), IP address, crash data, and general usage statistics for the purposes of providing the service, ensuring security, compatibility, and improving the App. This data is often aggregated or anonymized.
+* **Optional Data Integrations:** If features integrating external sources like ResearchGate are implemented and you choose to use them, data interaction specific to that feature may occur based on your explicit opt-in actions.
+
+## 4. How We Use Your Information
+
+Having accurate information permits us to provide you with a smooth, efficient, safe, and customized experience. Specifically, we may use information collected about you via the Application to:
+
+* Create and manage your anonymized account.
+* Operate and maintain the Acutió application and its features (including AR, Songlines, EGA facilitation).
+* Personalize your in-game experience based on voluntary Belief Tagging (tailoring metaphors and prompts).
+* Facilitate player interaction in Confluence Zones and other multiplayer features.
+* Monitor and analyze usage and trends to improve your experience with the Application and develop new features.
+* Perform moderation, enforce our Code of Conduct and EULA, and ensure the safety and security of our users and Services. This includes using automated tools (like the "Wu-Wei Golden Shield") and human review where necessary.
+* Diagnose and fix technical issues.
+* Implement age verification and operate the specific safeguards within the "Under-18 Mode" if applicable.
+* Respond to your requests and inquiries (when you contact us directly).
+* Comply with legal and regulatory obligations.
+
+## 5. Disclosure of Your Information
+
+We are committed to protecting your privacy and limiting the disclosure of your information. We may share information we have collected about you in certain situations:
+
+* **By Law or to Protect Rights:** If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation.
+* **Third-Party Service Providers:** We may share your information with third parties that perform services for us or on our behalf, such as data hosting, analytics (using aggregated/anonymized data where possible), technical support, and moderation tools. These providers are contractually obligated to protect your data and use it only for the services they provide to us.
+* **Business Transfers:** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+* **Anonymized or Aggregated Data:** We may share anonymized or aggregated data (which cannot reasonably be used to identify you) with partners or for research purposes related to gameplay patterns, ethical dialogue studies, or system effectiveness.
+* **With Your Consent:** We may disclose your information for other purposes with your explicit consent.
+
+**We explicitly state that we do *not* sell your personal information. We do *not* share your specific Belief Tagging data or individual, non-consensual GPS Songline data with third parties for their own marketing or profiling purposes.**
+
+## 6. Data Security
+
+We use administrative, technical, and physical security measures to help protect your information. While we have taken reasonable steps to secure the information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
+
+## 7. Data Retention
+
+We will only retain your information for as long as necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). When we have no ongoing legitimate business need to process your information, we will either delete or anonymize it, or, if this is not possible (for example, because your information has been stored in backup archives), then we will securely store your information and isolate it from any further processing until deletion is possible. Anonymized data may be retained indefinitely for analytical purposes.
+
+## 8. Your Rights (GDPR/CCPA and others)
+
+Depending on your jurisdiction, you may have the following rights regarding your personal information:
+
+* **The right to access:** You have the right to request copies of your personal data we hold.
+* **The right to rectification:** You have the right to request that we correct any information you believe is inaccurate or complete information you believe is incomplete.
+* **The right to erasure (Right to be forgotten):** You have the right to request that we erase your personal data, under certain conditions.
+* **The right to restrict processing:** You have the right to request that we restrict the processing of your personal data, under certain conditions.
+* **The right to object to processing:** You have the right to object to our processing of your personal data, under certain conditions.
+* **The right to data portability:** You have the right to request that we transfer the data that
