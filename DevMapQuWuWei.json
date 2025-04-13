@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "id": "acutio",
+      "label": "Acutiô (Ethical Finance AI)",
+      "description": "Chrome extension offering ESG-driven investment analysis.",
+      "attributes": {
+        "Core Tech": "Wu-Wei AI Algorithm",
+        "Data Sources": "Financial Modeling Prep API, ONS",
+        "Revenue": "£9.99/mo subscriptions"
+      }
+    },
+    {
+      "id": "weoption",
+      "label": "We.Option Any House",
+      "description": "PropTech marketplace linking homeowners/developers.",
+      "attributes": {
+        "Core Tech": "Quantum Fractal AVM",
+        "Data Sources": "Land Registry API, ONS Housing Data",
+        "Revenue": "1.5% transaction fees"
+      }
+    },
+    {
+      "id": "kte-qfvm",
+      "label": "KTE-QFVM Blockchain",
+      "description": "Ethical blockchain for karmic token governance.",
+      "attributes": {
+        "Core Tech": "Fractal Node Governance",
+        "Encryption": "NIST-Compliant Post-Quantum",
+        "Impact": "20% revenue to Agenda 2045"
+      }
+    },
+    {
+      "id": "agenda2045",
+      "label": "Agenda 2045 Fund",
+      "description": "Philanthropic arm for climate/social projects.",
+      "attributes": {
+        "Focus Areas": "Reforestation, Ethical AI Grants",
+        "Governance": "KTE-QFVM Smart Contracts"
+      }
+    },
+    {
+      "id": "land-registry",
+      "label": "HM Land Registry",
+      "description": "UK government land ownership database.",
+      "attributes": {
+        "Integration": "Real-time title checks",
+        "Data Type": "Property ownership records"
+      }
+    }
+  ],
+  "connections": [
+    {
+      "from": "acutio",
+      "to": "kte-qfvm",
+      "label": "Sends 20% fees via karmic tokens",
+      "direction": "
